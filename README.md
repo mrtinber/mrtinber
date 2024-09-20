@@ -2,8 +2,9 @@
 
 My name is Kevin and I am currently a French teacher abroad. I am passionate about coding and actively learning web development in order to shift my career and explore more opportunities!
 
-- 🌱 I’m currently learning Next.js
-- 👀 I’m interested in contributing to more projects !
+- 👀 I’m currently **looking for a job**
+- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m interested in **contributing to more projects** !
 
 ### I enjoy working on ...
 ![React][React.js]
@@ -16,7 +17,7 @@ My name is Kevin and I am currently a French teacher abroad. I am passionate abo
 
 ---
 
-![Mrtinber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtinber&show_icons=true&hide_border=true&theme=dark)
+<!--![Mrtinber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtinber&show_icons=true&hide_border=true&theme=dark) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtinber&layout=compact&theme=dark&hide_border=true)
 
 <!-- MARKDOWN LINKS & IMAGES -->
