@@ -3,7 +3,7 @@
 My name is Kevin and I am currently a French teacher abroad. I am passionate about coding and actively learning web development in order to shift my career and explore more opportunities!
 
 - 👀 I’m currently **looking for a job**
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Vue.js**
 - 🔭 I’m interested in **contributing to more projects** !
 
 ### I enjoy working on ...
